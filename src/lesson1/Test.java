@@ -19,7 +19,7 @@ public class Test {
 
         //конкатенация-склеивание
         System.out.println("");
-        System.out.println("Hello "+"Andrey"+" !!!!");
-            }
+        System.out.println("Hello " + "Andrey" + " !!!!");
+    }
 }
 
