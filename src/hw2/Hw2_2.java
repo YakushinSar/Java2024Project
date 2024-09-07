@@ -7,7 +7,7 @@ package hw2;
 Дополнительное задание со звездочкой
 Попробовать придумать как программа может проверить правильность дележа.
 */
-public class hw2_2 {
+public class Hw2_2 {
     public static void main(String[] args) {
     int dobycha = 1000;
     int piratov = 10;
