@@ -1,7 +1,7 @@
 package lesson4;
 import java.util.Arrays;
 
-public class Test_4_1 {
+public class Test4_1 {
     public static void main(String[] args) {
 
         // найти максимум 2х чисел
