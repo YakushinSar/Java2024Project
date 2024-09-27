@@ -8,8 +8,8 @@ public class Hw5_4 {
 int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 необходимо вывести среднее арифметическое всех значений массива
 */
-        int sumArifm = 0;
-        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        double sumArifm = 0;
+        int[] array = {3, 2, 3, 4, 5, 6, 7, 8, 9};
         for (int i = 0; i < array.length; i++) {
             sumArifm = sumArifm + array[i];
         }
