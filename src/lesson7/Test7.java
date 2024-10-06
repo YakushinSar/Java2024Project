@@ -46,6 +46,16 @@ public class Test7 {
         System.out.println(sum1(first,second));
 
         System.out.println(concat1("my ","name -", " andrey"));
+        System.out.println("");
+
+        /*бывают типы int и Integer, разница в том что у
+        Integer есть свои методы, которые можно вызвать ч/з точку
+                 */
+        int i = 10;
+        Integer I = 10;
+
+        //выведем с помощью метода дробное число
+        System.out.println(I.doubleValue());
 
 
     }
